@@ -9,14 +9,14 @@ After access has been granted, refer to the appropriare instructions below to es
 
 ---
 **Windows:**
-- [Download and install the GlobalProtect VPN App]()
-- [Connect to VPN]()
-- [Disconnect from the VPN]()
+- [Download and install the GlobalProtect VPN App](external-pages/download-win.md)
+- [Connect to VPN](external-pages/connect-win.md)
+- [Disconnect from the VPN](external-pages/disconnect-win.md)
 
 **macOS:**
-- [Download and install the GlobalProtect VPN App]()
-- [Connect to VPN]()
-- [Disconnect from the VPN]()
+- [Download and install the GlobalProtect VPN App](external-pages/download-mac.md)
+- [Connect to VPN](external-pages/connect-mac.md)
+- [Disconnect from the VPN](external-pages/disconnect-mac.md)
 
 ---
 If you experience issues connecting to the VPN using the instructions above, please confirm that you are using the GlobalProtect app and the correct vpn settings.
