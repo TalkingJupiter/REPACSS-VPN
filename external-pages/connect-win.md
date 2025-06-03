@@ -3,7 +3,7 @@ Before connecting to the TTUnet VPN, ensure that VPN access is enabled on your e
 The TTUnet VPN service provides a secure connection to the Texas Tech University (TTU) network only. It is not designed for general-purpose internet encryption. Any communication to non-TTU services will bypass the VPN.
 # Instructions to Connect to TTUnet VPN
 **1. Install GlobalProtect VPN Software<br>**
-If you haven’t already, [download and install GlobalProtect VPN](external-pages/download-win.md) from the **IT Online Software Store**.<br>
+If you haven’t already, [download and install GlobalProtect VPN](download-win.md) from the **IT Online Software Store**.<br>
 
 **2. Open GlobalProtect**<br>
 In the Notification Area at the bottom right of your screen, click the GlobalProtect icon.<br>
