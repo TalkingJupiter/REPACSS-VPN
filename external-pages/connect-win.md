@@ -20,7 +20,7 @@ In the GlobalProtect window, type the following in the Portal Address field:
 **4. Sign In with Your eRaider Credentials**<br>
 If your default browser doesn't open automatically, open it manually and locate the sign-in screen.<br>
 Log in using your eRaider username and password.
->NOTE:<br>
+>Note:<br>
 You may need to switch between the browser and the GlobalProtect app during this process.
 
 (Insert example screenshot)
