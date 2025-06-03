@@ -5,27 +5,27 @@
 2. Locate and open the downloaded file. It is typically saved in your **Downloads** folder.
 Make sure to install the correct version based on your system type (64-bit or 32-bit Windows). Both versions are included in the download package.
 
-(Example ss)
+(Example ss)<br>
 4. Click **Next** to begin installation
 
-(Example ss)
+(Example ss)<br>
 5. Select the installation folder, then click Next.
 
-(Example ss)
+(Example ss)<br>
 6. Click Next to confirm and proceed
 
-(Example ss)
+(Example ss)<br>
 7. If promted by User Account Control, click Yes to allow the installation
 
-(Example ss)
+(Example ss)<br>
 8. If you receive a message about GlobalProtect files being in use click Continue to proceed.
 
-(Example ss)
+(Example ss)<br>
 9. Wait for the installation to complete.
 
-(Example ss)
+(Example ss)<br>
 10. Once installation is finished, click Close
 
-(Example ss)
+(Example ss)<br>
 11. If prompted to restart your computer, select your prefered option.
 Restarting is recommended to complete the installation and begin using the software.
