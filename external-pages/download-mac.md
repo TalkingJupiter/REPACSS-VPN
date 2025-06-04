@@ -1,5 +1,5 @@
 # How to Download GlobalProtect on Mac
-1. Download the GlobalProtect installation package from the eRaider Software Downloads page.<br>
+1. Download the GlobalProtect installation package from the [eRaider Software Downloads page](https://software.ttu.edu/).<br>
 ![Alt Text](images/mac/pkg.png)<br>
 2. Locate and open the downloaded file. By default, this will be in your Downloads folder.<br>
 3. Click Continue to begin the installation process.<br>
@@ -12,7 +12,7 @@
 ![Alt Text](images/mac/install-2.png)<br>
 
 7. When prompted, use Touch ID or enter an administrator username and password, then click Install Software.<br>
-![Alt Text](images/mac/install-3.png)<br>
+![Alt Text](images/mac/install-3.png)
 ![Alt Text](images/mac/install-4.png)<br>
 8. If asked to allow Installer access to your Downloads folder, click OK.<br>
 ![Alt Text](images/mac/install-5.png)<br>
