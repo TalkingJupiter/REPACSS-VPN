@@ -4,6 +4,7 @@
 ![Alt Text](images/mac/connect.png)<br>
 3. In the Portal field, enter:
 >vpn.ttu.edu<br>
+
 Then click Connect.<br>
 ![Alt Text](images/mac/connect-1.png)
 4. GlobalProtect will retrieve the configuration from the portal. Please wait while this process completes.<br>
