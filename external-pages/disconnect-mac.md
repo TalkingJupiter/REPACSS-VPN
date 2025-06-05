@@ -1,4 +1,4 @@
-# Disconnecting from TTUnet VPN
+# Disconnecting from TTUnet VPN on Mac
 
 1. In your Mac's menu bar, click the GlobalProtect icon.<br>
 ![Alt Text](images/mac/disconnect.png)<br>
