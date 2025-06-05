@@ -7,7 +7,7 @@ If you haven’t already, [download and install GlobalProtect VPN](download-win.
 
 **2. Open GlobalProtect**<br>
 In the Notification Area at the bottom right of your screen, click the GlobalProtect icon.<br>
-(Insert example screenshot)
+![Alt Text](images/win/connect-2.png)
 >Tip:<br>
 If the icon isn't visible, click the upward arrow ( ˄ ) to reveal hidden icons.
 
@@ -15,7 +15,7 @@ If the icon isn't visible, click the upward arrow ( ˄ ) to reveal hidden icons.
 In the GlobalProtect window, type the following in the Portal Address field:
 >vpn.ttu.edu
 
-(Insert example screenshot)
+![Alt Text](images/win/connect-3.png)
 
 **4. Sign In with Your eRaider Credentials**<br>
 If your default browser doesn't open automatically, open it manually and locate the sign-in screen.<br>
@@ -23,12 +23,11 @@ Log in using your eRaider username and password.
 >Note:<br>
 You may need to switch between the browser and the GlobalProtect app during this process.
 
-(Insert example screenshot)
 
 **5. Open GlobalProtect**<br>
 If prompted by your browser, click Open GlobalProtect to complete the connection.<br>
-(Insert example screenshot)
+![Alt Text](images/win/connect-5.png)
 
 **6. Wait for Connection**<br>
 GlobalProtect will now establish the VPN connection. This may take a few moments.<br>
-(Insert example screenshot)
+![Alt Text](images/win/connect-6.png)
