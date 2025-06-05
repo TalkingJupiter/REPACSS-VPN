@@ -21,4 +21,4 @@ After access has been granted, refer to the appropriare instructions below to es
 ---
 If you experience issues connecting to the VPN using the instructions above, please confirm that you are using the GlobalProtect app and the correct vpn settings.
 
-For further assustabce, contact **IT Help Central** at **806-742-4357** or email **[ithelpcentral@ttu.edu](mailto:ithelpcental@ttu.edu)**
+For further assistance, contact **IT Help Central** at **806-742-4357** or email **[ithelpcentral@ttu.edu](mailto:ithelpcental@ttu.edu)**
